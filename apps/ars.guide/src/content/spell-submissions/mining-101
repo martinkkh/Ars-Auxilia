@@ -1,0 +1,16 @@
+{
+  "name": "Mining 101",
+  "category": "mfr_utility",
+  "author": "alexthw",
+  "versions": ["1.21.1", "1.20.1", "1.19.2", "1.18.2", "1.16.5"],
+  "spells": [
+    {
+      "glyphs": [
+        "ars_nouveau:projectile",
+        "ars_nouveau:break",
+        "ars_nouveau:pickup",
+      ],
+      "description": "Deemed the most powerful spells the mod has to offer, get a full explanation and rundown, as well as example mining spells on this [Mining 101](https://discord.com/channels/743298050222587978/1064191444262338571) thread."
+    }
+  ]
+}
