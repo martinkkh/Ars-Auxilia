@@ -1,1 +1,10 @@
+---
+title: "Utility"
+description: "A list of frequently requested Utility spells"
+weight: 0
+aliases: "mining, reactive"
+---
 
+import CategorySubmissions from '../../../components/spells/CategorySubmissions.astro'
+
+<CategorySubmissions category={"mfr_utility"} />
