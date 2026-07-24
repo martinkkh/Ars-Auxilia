@@ -1,0 +1,10 @@
+---
+title: "Damage"
+description: "A list of frequently requested Damage spells"
+weight: 0
+aliases: "atm, oneshot, nuke"
+---
+
+import CategorySubmissions from '../../../components/spells/CategorySubmissions.astro'
+
+<CategorySubmissions category={"mfr_Damage"} />
