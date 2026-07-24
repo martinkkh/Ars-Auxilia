@@ -1,0 +1,10 @@
+---
+title: "Automation"
+description: "A list of frequently requested Automation spells"
+weight: 0
+aliases: "auto, farming, redstone"
+---
+
+import CategorySubmissions from '../../../components/spells/CategorySubmissions.astro'
+
+<CategorySubmissions category={"mfr_automation"} />
