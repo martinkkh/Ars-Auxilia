@@ -33,5 +33,20 @@
     "id": "fun",
     "class": "other",
     "text": "Fun"
+  },
+  {
+    "id": "mfr_utility",
+    "class": "other",
+    "text": "Utility"
+  },
+  {
+    "id": "mfr_damage",
+    "class": "combat",
+    "text": "Damage"
+  },
+  {
+    "id": "mfr_automation",
+    "class": "other",
+    "text": "Automation"
   }
 ]
